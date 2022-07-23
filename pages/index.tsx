@@ -6,7 +6,7 @@ import {About, Casestudy, Footer,Header,Navbar} from '../components'
 
 const Home: NextPage = () => {
   return (
-    <div className="">
+    <div className="px-6 pt-[50px]">
       <Head>
         <title>Invorum</title>
         <link rel="icon" href="/favicon.ico" />
