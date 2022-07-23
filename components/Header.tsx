@@ -10,7 +10,7 @@ const Header = () => {
       <img className='h-8' src={images.logodark.src} alt="" />
       <span className='w-[50%] text-center mt-7'>We fulfill international property developments</span>
       </div>
-      <div className="flex justify-center items-center mt-[500px]">
+      <div className="flex justify-center items-center mt-[400px]">
       <Icon className='text-white w-8 h-8 animate-bounce' icon="bi:chevron-double-down" />
       </div>
 
