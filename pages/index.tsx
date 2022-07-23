@@ -11,7 +11,7 @@ const Home: NextPage = () => {
       </Head>
 
       <main className="flex w-full flex-1 flex-col items-center justify-center px-20 text-center">
-        <h1 className="text-6xl font-bold">
+        <h1 className="text-6xl font-bold font-bold">
           Welcome to{' '}
           <a className="text-blue-600" href="https://nextjs.org">
             Next.js!
@@ -79,6 +79,9 @@ const Home: NextPage = () => {
           <Image src="/vercel.svg" alt="Vercel Logo" width={72} height={16} />
         </a>
       </footer>
+      <h1 className='font-gilregular'>Helllo</h1>
+      <h1 className='font-gilmedium'>Helllo</h1>
+      <h1 className='font-gilextra'>Helllo</h1>
     </div>
   )
 }
