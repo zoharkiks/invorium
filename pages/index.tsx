@@ -12,7 +12,7 @@ const Home: NextPage = () => {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <div className="bg-[url('../assets/headerImage.png')] h-screen bg-cover bg-no-repeat bg-center pt-[50px]">
+      <div className="bg-[url('../assets/headerImage.png')] h-screen bg-cover bg-no-repeat bg-center pt-[50px]   ">
       <Navbar/>
       <Header/>
 
